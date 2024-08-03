@@ -1,0 +1,7 @@
+🔄 Token Swaps: IPX enables efficient token swaps with Move.
+
+rust
+Copy code
+public fun swap_tokens(sender: &signer, amount: u64, from_token: address, to_token: address) {
+    // Code to swap tokens
+}
