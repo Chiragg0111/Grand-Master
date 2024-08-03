@@ -1,0 +1,8 @@
+Code Snippet 3: Liquidity Provision
+💧 Adding Liquidity: Providing liquidity on IPX with Move.
+
+rust
+Copy code
+public fun add_liquidity(account: &signer, token_a: address, token_b: address, amount_a: u64, amount_b: u64) {
+    // Code to add liquidity
+}
