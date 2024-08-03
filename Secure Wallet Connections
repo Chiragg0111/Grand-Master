@@ -1,0 +1,3 @@
+public fun connect_wallet(account: &signer) {
+    // Code to connect wallet
+}
